@@ -1,4 +1,8 @@
-# Atlas — unified GTM + Partnerships + RevOps
+<p align="center">
+  <img src="assets/hero.svg" alt="AI RevOps — unified GTM, Partnerships and RevOps. A multi-agent runtime where one prompt drives nine agents across three pods into one Vertical Launch Plan." width="100%" />
+</p>
+
+# AI RevOps — unified GTM + Partnerships + RevOps
 
 ![Next.js 14](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![No API keys](https://img.shields.io/badge/API_keys-none-22c55e) ![Runs offline](https://img.shields.io/badge/runs-offline-8b5cf6) ![Deploy: Vercel](https://img.shields.io/badge/deploy-Vercel-000?logo=vercel&logoColor=white)
 
@@ -6,7 +10,7 @@
 
 > GTM, partnerships, and revenue ops are one system — not three teams throwing docs over a wall. Atlas takes a company into a new market segment end-to-end, and shows its work.
 
-A standalone, production-quality demo of a **real in-app multi-agent runtime**. One prompt drives **nine agents across three pods** — GTM, Partnerships, and RevOps — under a single orchestrator, producing one coherent **Vertical Launch Plan**: prioritized segments, a go-to-market motion, a scored partner shortlist + outreach, a funnel model, a scored-lead table, a banded revenue forecast, and a build-vs-buy RevOps stack. It runs **completely offline**: no API keys, no external LLM calls, nothing to configure.
+A standalone, production-quality demo of a **real in-app multi-agent runtime** (codename **Atlas**). One prompt drives **nine agents across three pods** — GTM, Partnerships, and RevOps — under a single orchestrator, producing one coherent **Vertical Launch Plan**: prioritized segments, a go-to-market motion, a scored partner shortlist + outreach, a funnel model, a scored-lead table, a banded revenue forecast, and a build-vs-buy RevOps stack. It runs **completely offline**: no API keys, no external LLM calls, nothing to configure.
 
 **Stack:** Next.js 14 (App Router) · TypeScript · Tailwind · framer-motion · recharts · lucide-react · @faker-js/faker (seed only)
 
