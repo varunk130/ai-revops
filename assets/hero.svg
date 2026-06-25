@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-label="AI RevOps — unified GTM, Partnerships and RevOps. A multi-agent runtime where one prompt drives nine agents across three pods into one Vertical Launch Plan. Codename Atlas. Synthetic data, runs offline.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E13"/>
+      <stop offset="1" stop-color="#080A0E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="80%" cy="-8%" r="60%">
+      <stop offset="0" stop-color="#4EA8FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#4EA8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="4%" cy="2%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B83D0"/>
+      <stop offset="0.5" stop-color="#4EA8FF"/>
+      <stop offset="1" stop-color="#86C4FF"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#C4D2E4"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="440"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="url(#bg)"/>
+    <rect width="1280" height="440" fill="url(#glowA)"/>
+    <rect width="1280" height="440" fill="url(#glowB)"/>
+
+    <!-- topographic contour motif (Atlas signature) -->
+    <g stroke="#4EA8FF" stroke-opacity="0.06" fill="none">
+      <circle cx="1010" cy="206" r="74"/>
+      <circle cx="1010" cy="206" r="126"/>
+      <circle cx="1010" cy="206" r="180"/>
+      <circle cx="1010" cy="206" r="238"/>
+      <circle cx="1010" cy="206" r="300"/>
+    </g>
+
+    <rect x="0" y="0" width="1280" height="3" fill="url(#accent)"/>
+
+    <!-- eyebrow -->
+    <g transform="translate(74,104)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#4EA8FF"/>
+      <text x="20" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="3" fill="#86C4FF">AGENTIC MULTI-AGENT RUNTIME · CODENAME ATLAS</text>
+    </g>
+
+    <!-- title -->
+    <text x="71" y="194" font-family="'Outfit','Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="80" font-weight="800" letter-spacing="-1.5" fill="url(#title)">AI RevOps</text>
+    <rect x="76" y="212" width="172" height="5" rx="2.5" fill="url(#accent)"/>
+
+    <!-- tagline + subline -->
+    <text x="75" y="252" font-family="'Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="22" font-weight="500" fill="#C7D2E0">Unified GTM + Partnerships + RevOps.</text>
+    <text x="75" y="282" font-family="'Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="15" fill="#8F9CB0">One prompt &#8594; nine agents across three pods &#8594; one Vertical Launch Plan.</text>
+
+    <!-- pod chips -->
+    <g transform="translate(75,306)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
+      <g>
+        <rect x="0" y="0" width="88" height="30" rx="15" fill="#10141C" stroke="#34D399" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#34D399"/>
+        <text x="31" y="19" fill="#CBE7DA">GTM</text>
+      </g>
+      <g transform="translate(100,0)">
+        <rect x="0" y="0" width="146" height="30" rx="15" fill="#10141C" stroke="#FBBF24" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#FBBF24"/>
+        <text x="31" y="19" fill="#EBDFC4">Partnerships</text>
+      </g>
+      <g transform="translate(258,0)">
+        <rect x="0" y="0" width="112" height="30" rx="15" fill="#10141C" stroke="#A78BFA" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#A78BFA"/>
+        <text x="31" y="19" fill="#DAD2F2">RevOps</text>
+      </g>
+    </g>
+
+    <!-- ===== right: orchestrator -> pods -> plan ===== -->
+    <g fill="none" stroke-width="2">
+      <path d="M1010 154 C 1010 182, 858 180, 858 208" stroke="#34D399" stroke-opacity="0.5"/>
+      <path d="M1010 154 L 1010 208" stroke="#FBBF24" stroke-opacity="0.5"/>
+      <path d="M1010 154 C 1010 182, 1162 180, 1162 208" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <path d="M858 244 C 858 280, 1010 282, 1010 310" stroke="#34D399" stroke-opacity="0.35"/>
+      <path d="M1010 244 L 1010 310" stroke="#FBBF24" stroke-opacity="0.35"/>
+      <path d="M1162 244 C 1162 280, 1010 282, 1010 310" stroke="#A78BFA" stroke-opacity="0.35"/>
+    </g>
+
+    <!-- orchestrator -->
+    <g transform="translate(946,120)">
+      <rect x="0" y="0" width="128" height="34" rx="10" fill="#10141C" stroke="#4EA8FF" stroke-opacity="0.75"/>
+      <circle cx="19" cy="17" r="5" fill="#4EA8FF"/>
+      <text x="34" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" letter-spacing="1.5" fill="#CFE4FB">ATLAS · ORCH</text>
+    </g>
+
+    <!-- pods -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5">
+      <g transform="translate(806,208)">
+        <rect x="0" y="0" width="104" height="36" rx="9" fill="#0E1714" stroke="#34D399" stroke-opacity="0.55"/>
+        <circle cx="17" cy="18" r="4.5" fill="#34D399"/>
+        <text x="30" y="22" fill="#CBE7DA">GTM</text>
+      </g>
+      <g transform="translate(958,208)">
+        <rect x="0" y="0" width="104" height="36" rx="9" fill="#16130A" stroke="#FBBF24" stroke-opacity="0.55"/>
+        <circle cx="17" cy="18" r="4.5" fill="#FBBF24"/>
+        <text x="30" y="22" fill="#EBDFC4">PARTNER</text>
+      </g>
+      <g transform="translate(1110,208)">
+        <rect x="0" y="0" width="104" height="36" rx="9" fill="#13101D" stroke="#A78BFA" stroke-opacity="0.55"/>
+        <circle cx="17" cy="18" r="4.5" fill="#A78BFA"/>
+        <text x="30" y="22" fill="#DAD2F2">REVOPS</text>
+      </g>
+    </g>
+
+    <!-- plan output -->
+    <g transform="translate(926,310)">
+      <rect x="0" y="0" width="168" height="36" rx="10" fill="#10141C" stroke="#86C4FF" stroke-opacity="0.6"/>
+      <circle cx="19" cy="18" r="5" fill="#86C4FF"/>
+      <text x="34" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" letter-spacing="1" fill="#DCEBFB">VERTICAL LAUNCH PLAN</text>
+    </g>
+    <text x="1010" y="372" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11.5" letter-spacing="1.5" fill="#6B7686">9 agents · 3 pods · 1 plan</text>
+
+    <!-- bottom ribbon -->
+    <rect x="0" y="392" width="1280" height="48" fill="#0A0D12"/>
+    <rect x="0" y="392" width="1280" height="1" fill="#4EA8FF" fill-opacity="0.18"/>
+    <text x="75" y="421" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="1.2" fill="#8F9CB0">Built by Varun Kulkarni · synthetic data · runs offline · no API keys</text>
+    <g transform="translate(1088,404)">
+      <rect x="0" y="0" width="118" height="24" rx="12" fill="#10141C" stroke="#4EA8FF" stroke-opacity="0.4"/>
+      <text x="59" y="16" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#86C4FF">npm run dev</text>
+    </g>
+  </g>
+</svg>
