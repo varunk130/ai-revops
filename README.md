@@ -190,5 +190,14 @@ Everything downstream — scoring, funnel, forecast, the agents, the threshold �
 - **Accessibility:** keyboard navigable, visible focus, AA contrast, `prefers-reduced-motion` respected.
 - **Determinism:** the dataset, scoring, and forecast are seeded, so the demo reproduces exactly.
 
+---
+
+## Related apps
+
+Part of a five-app multi-agent showcase, all offline and key-free:
+
+- [ai-growth-os](https://github.com/varunk130/ai-growth-os) — **Compound**, a growth experiment engine (find → design → ship → learn)
+- [ai-customer-acquisition](https://github.com/varunk130/ai-customer-acquisition) — **Beacon**, an agentic paid-acquisition engine with live reallocation
+
 Built by **Varun Kulkarni** · synthetic data · for an internal AI-upskilling showcase.
 
