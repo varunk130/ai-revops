@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="AI RevOps — unified GTM, Partnerships and RevOps. A multi-agent runtime where one prompt drives nine agents across three pods into one Vertical Launch Plan." width="100%" />
+  <img src="assets/hero.svg" alt="AI RevOps — unified GTM, Partnerships, and RevOps. A multi-agent runtime where one prompt drives nine agents across three pods into one Vertical Launch Plan." width="100%" />
 </p>
 
 # AI RevOps — unified GTM + Partnerships + RevOps
