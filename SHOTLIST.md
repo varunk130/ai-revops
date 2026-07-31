@@ -1,6 +1,6 @@
 # Atlas — 60–90s screen-recording shot list
 
-> Companion to the app **[README](./README.md)** · part of the **[AI PM Agent Showcase](../README.md)**.
+> Companion to the app **[README](./README.md)** · part of the **[AI PM Agent Showcase](https://github.com/varunk130?tab=repositories)**.
 
 Target **90s** (this one earns the extra time — three pods). Record at 1440×1000, dark UI,
 cursor visible. Let the pod hand-offs and the threshold re-forecast breathe. The demo ships **two
