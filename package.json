@@ -8,6 +8,8 @@
     "build": "next build",
     "start": "next start -p 3003",
     "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
     "seed": "tsx data/seed.ts",
     "seed:enterprise": "tsx data/seed.enterprise.ts"
   },
