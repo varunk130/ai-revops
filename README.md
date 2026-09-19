@@ -56,6 +56,12 @@ npm run seed             # rewrites data/atlas.json (consumer) deterministically
 npm run seed:enterprise  # rewrites data/atlas.enterprise.json (enterprise) deterministically
 ```
 
+Check it (the same steps CI runs on every push and PR):
+
+```bash
+npm run lint && npm run typecheck && npm test
+```
+
 Build for production (Vercel-ready, **zero environment variables**):
 
 ```bash
