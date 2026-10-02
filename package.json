@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "description": "Atlas - one agentic platform that takes a company into a new market segment: GTM plan, partner motion, and RevOps machine. Fully local, no API keys.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunk130/ai-revops.git"
+  },
+  "homepage": "https://github.com/varunk130/ai-revops#readme",
   "scripts": {
     "dev": "next dev -p 3003",
     "build": "next build",
