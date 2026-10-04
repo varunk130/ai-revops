@@ -35,7 +35,3 @@ export const SCENARIOS: ScenarioMeta[] = [
     content: SCENARIO_CONTENT.enterprise,
   },
 ];
-
-export function getScenario(id: ScenarioId): ScenarioMeta {
-  return SCENARIOS.find((s) => s.id === id) ?? SCENARIOS[0];
-}
