@@ -26,10 +26,6 @@ export function Section({ children, className = "", id }: { children: ReactNode;
   );
 }
 
-export function Panel({ children, className = "" }: { children: ReactNode; className?: string }) {
-  return <div className={`panel ${className}`}>{children}</div>;
-}
-
 export function Stat({ value, label, tone = "default" }: { value: ReactNode; label: ReactNode; tone?: "default" | "atlas" | "gtm" | "revops" }) {
   const toneClass = tone === "atlas" ? "text-atlas" : tone === "gtm" ? "text-gtm" : tone === "revops" ? "text-revops" : "text-white";
   return (
